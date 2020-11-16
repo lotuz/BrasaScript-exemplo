@@ -1,4 +1,4 @@
-# Teste do dialeto Brasa de Javascript
+# Exemplo do dialeto Brasa de Javascript
 
 Brasa é um dialeto de Javascript onde as palavras chaves são em português
 
