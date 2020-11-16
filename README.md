@@ -14,7 +14,7 @@ pode ser encontrado em https://github.com/marcel0ll/brasa
 
 ## Como usar
 
-Execute o comando 
+Execute o comando
 
 `npm run brasa [nome do script]`
 
@@ -24,4 +24,47 @@ Opções de script:
 - src/soma.js
 - src/classe.js
 - src/escolha.js
+- src/condicional.js
+
+
+## Tradução das palavras chave:
+
+| brasa       | js
+--------------
+| pare        | break
+| caso        | case
+| pegue       | catch
+| continue    | continue
+| depurador   | debugger
+| padrão      | default
+| faça        | do
+| senão       | else
+| finalmente  | finally
+| para        | for
+| função      | function
+| se          | if
+| retorne     | return
+| escolha     | switch
+| lançe       | throw
+| tente       | try
+| var         | var
+| const       | const
+| enquanto    | while
+| com         | with
+| novo        | new
+| isto        | this
+| super       | super
+| classe      | class
+| estende     | extends
+| exportar    | export
+| importar    | import
+| nulo        | null
+| verdadeiro  | true
+| falso       | false
+| em          | in
+| instânciade | instanceof
+| tipode      | typeof
+| vazio       | void
+| delete      | delete
+
 
