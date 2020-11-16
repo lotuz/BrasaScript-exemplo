@@ -23,4 +23,5 @@ Opções de script:
 
 - src/soma.js
 - src/classe.js
+- src/escolha.js
 
