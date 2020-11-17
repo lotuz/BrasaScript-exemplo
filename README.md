@@ -21,10 +21,12 @@ Execute o comando
 
 Opções de script:
 
-- src/soma.js
 - src/classe.js
-- src/escolha.js
 - src/condicional.js
+- src/escolha.js
+- src/exportar.mjs
+- src/importar.mjs
+- src/soma.js
 
 
 ## Tradução das palavras chave:
