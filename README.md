@@ -1,4 +1,4 @@
-![Brasascript logo](./logo.png)
+![Brasascript logo](./logo.png | width=400)
 
 # Exemplo do dialeto Brasa de Javascript
 
