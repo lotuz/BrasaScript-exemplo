@@ -1,8 +1,8 @@
 ![Brasascript logo](./logo.png?width=400)
 
-# Exemplo do dialeto Brasa de Javascript
+# Exemplos de código em BrasaScript
 
-Brasa é um dialeto de Javascript onde as palavras chaves são em português
+BrasaScript é um dialeto de Javascript onde as palavras chaves são em português
 
 Este repositório serve de teste/exemplo do dialeto.
 
@@ -33,7 +33,7 @@ Opções de script:
 
 ## Tradução das palavras chave:
 
-| brasa         | js          |
+| BrasaScript   | js          |
 | ------------- | ---------   |
 | break         | pare        |
 | case          | caso        |
